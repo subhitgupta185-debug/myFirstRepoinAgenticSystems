@@ -1,5 +1,5 @@
 def user_name():
-    name = input("Enter your name : ")
+    name = input("Enter your name : ") 
     return name
 
 def  greeting(name):

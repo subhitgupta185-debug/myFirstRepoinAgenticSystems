@@ -6,5 +6,5 @@ def evenorodd(num):
         return "Number is odd"
 
 result = evenorodd(6)
-print("Yes the", result)
+print("Yes the", result) 
 
